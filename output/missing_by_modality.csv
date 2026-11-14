@@ -1,0 +1,5 @@
+modality,report_hr,dose_msv
+CT,0.004,0.0
+MRI,0.005,1.0
+Ultrasound,0.004,1.0
+X-ray,0.004,0.0
